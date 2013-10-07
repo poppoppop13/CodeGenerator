@@ -14,5 +14,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JFKingsley/CodeGenerator/issues"
+  },
+  "dependencies": {
+    "chance": "~0.4.3",
+    "validator": "~1.5.1"
   }
 }
